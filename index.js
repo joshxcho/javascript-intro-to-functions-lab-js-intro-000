@@ -15,8 +15,8 @@ function logWhisper (string) {
 }
 
 
-let uppercase = 'HELLO'
-let lowercase = 'hello'
+let uppercase = 'HELLO.toUpperCase()'
+let lowercase = 'hello.toLowerCase()'
 function sayHiToGrandma (string) {
   if (string === uppercase) {
     return 'YES INDEED!'
